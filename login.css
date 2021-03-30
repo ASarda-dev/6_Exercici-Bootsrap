@@ -1,0 +1,15 @@
+body{
+    background: #5fb13e;
+    background: linear-gradient(to right, #739e59,#b2fa9c,#223019 );
+}
+
+.fondo{
+background-image: url(Fotos/limaportadajpg.jpg);
+background-position: center center;
+
+
+}
+
+.sociales{
+    font-size: 25px;
+}
